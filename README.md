@@ -63,9 +63,8 @@ history.txt
 
 Stores all successful calculations.
 
-Example:
 
-```
+
 10 + 20 = 30
 50 - 15 = 35
 12 * 5 = 60
